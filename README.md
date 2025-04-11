@@ -1,12 +1,27 @@
-# React + Vite
+🕒 Employee Attendance Management System
+A web-based application that allows employees to mark their In-Time and Out-Time, track their attendance history, calculate overtime, monitor leaves, check for early outs, and view salary reports based on attendance.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
+👤 Employee Login System
 
-## Expanding the ESLint configuration
+🟢 Mark In-Time and 🔴 Mark Out-Time
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📅 Daily Attendance Tracking
+
+⏱️ Overtime Calculation
+
+🏖️ Leave Management
+
+⏰ Early Departure Tracking
+
+💰 Salary Calculation based on attendance & overtime
+
+📊 Attendance Report View
+
+
+
+🛠️ Technologies Used
+Frontend: HTML, CSS, JavaScript (React.js / plain JS)
+
